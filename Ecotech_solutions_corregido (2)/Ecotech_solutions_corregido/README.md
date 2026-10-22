@@ -16,6 +16,6 @@ Miercoles 21-10-2026
 
 Matias Aguila: realize testeos de conexion entre la base de datos y el python para ver posibles errores o falta de conexion
 Jonathan Rain: corrigiendo problemas de conexion a la base de datos, optimizando conexion.py, administrador.py y los dao.py con ayuda de la IA y tomando decisiones sobre descarte, uso y modificacion.
-Benjamin Martinez:
+Benjamin Martinez: Benjamin Martinez: Cree el sistema de inicio de sesion para administradores, hice partes de proyecto.py, departmento.py y registro_tiempo.py.
 
 el main.py se hizo entre los tres ya que es el que conecta todo.
